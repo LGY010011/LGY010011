@@ -12,7 +12,7 @@
 
 - `2024.03 - 2024.08` : UMC 6th Challenger - Springboot
 - `2024.09 - 2024.12` : GDGoC 3rd Memeber
-- `2024.09 - ing` : UMC 7th Challenger - Web
+- `2024.09 - 2025.02` : UMC 7th Challenger - Web
 
 <br>
 
