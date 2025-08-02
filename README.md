@@ -1,32 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=2F4F4F&height=280&section=header&text=nana&desc=leegayoung&fontSize=60&descSize=15&fontColor=ffff" />
+<!-- 소개 -->
+<p align="center">
+<samp>
+🖤 Developer<br/>
+</samp>
+</p>
 
-<div align="center">
-  
-|:green_heart:|:green_heart:|
-|------|---|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy010011&exclude_repo=GameProgramming&layout=compact&theme=vue-dark)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgy010011&hide=contribs,prs&show_icons=true&theme=vue-dark)|
+<br/>
 
-</div>
+<br/>
 
-### :bug: I'm in ...
+<!-- GitHub Stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lgy010011&show_icons=true&hide=contribs,prs&theme=graywhite" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgy010011&layout=compact&exclude_repo=GameProgramming&theme=graywhite" width="48%" />
+</p>
 
-- `2024.03 - 2024.08` : UMC 6th Challenger - Springboot
-- `2024.09 - 2024.12` : GDGoC 3rd Memeber
-- `2024.09 - 2025.02` : UMC 7th Challenger - Web
+<br/>
 
-<br>
+<!-- 활동 -->
+<h3 align="left"> Activities</h3>
 
----
+<ul style="list-style: none; padding-left: 1rem;">
+<li><b>UMC 6th</b> | <sub>Spring Boot 트랙  · 2024.03 – 2024.08</sub></li>
+<li><b>GDGoC 3rd</b> | <sub>AWS Study · 2024.09 – 2024.12</sub></li>
+<li><b>UMC 7th</b> | <sub>Web 트랙 · 2024.09 – 2025.02</sub></li>
+</ul>
 
-### :bug: Skill
-<div align="center">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-</div>
+<br/>
+
+<!-- 기술 스택 -->
+<h3 align="left"> Tech Stack</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- 마무리 -->
+<p align="center">
+<samp>
+🕶️
+</samp>
+</p>
