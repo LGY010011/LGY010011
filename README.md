@@ -11,7 +11,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lgy010011&show_icons=true&hide=contribs,prs&theme=graywhite" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lgy010011&show_icons=true&hide=contribs&theme=graywhite" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgy010011&layout=compact&exclude_repo=GameProgramming&theme=graywhite" width="48%" />
 </p>
 
